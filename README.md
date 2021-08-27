@@ -16,7 +16,7 @@ Recursos que eu utilizei:
 Flutter, Dart, GitHub
 
 Tempo:
-6 meses => 15/10/20
+6 meses => 15/10/21
 
 Escopo:
 Trabalhar nisso
